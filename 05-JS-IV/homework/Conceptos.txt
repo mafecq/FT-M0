@@ -1,0 +1,5 @@
+Objetos: Es algo que existe, todo es un objeto, por ejemplo una moto
+Propiedades: Tenemos a la moto como objeto y sus propiedades serían la marca, el modelo y su color lo cual hace que se defina y diferencie de otras motos.
+Métodos: Hay muchos metodos, estos metodos gestionan esas propiedades y manejan el objeto, con esto podemos modificar las propiedades. 
+Bucle for…in: Recorre las propiedades de un objeto.
+Notación de puntos vs notación de corchetes: L notación de puntos hace que vayamos directamente a la propiedad y la notación de corchetes la uso cuando no conozco el nombre de la propiedad.
