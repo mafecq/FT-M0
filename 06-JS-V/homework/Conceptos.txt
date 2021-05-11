@@ -1,0 +1,2 @@
+prototype : Es un objeto que se utiliza como una fuente de propiedades alternativa. 
+Constructors (de Clases) : Es donde envuelvo un valor dado. Con esto se crean objetos manipulables y puedo definirle las propiedades que quiero crear. Así mismo útiles para crear muchos objetos que comparten algunas de las mismas propiedades y métodos (como los usuarios en un sitio web).
