@@ -1,0 +1,4 @@
+* `for` : Es un bucle, una forma rápida y sencilla de hacer algo repetidamente. Un for se repite hasta que una condición especificada se evalúe como falsa.
+* `&&` : Es un operador lógico "y" "and" utilizado con valores booleanos. el && evalúa dos expresiones y devuelve verdadero si ambas expresiones son verdaderas. Si una o ambas son falsas devuelve falso.
+ `||` Es un operador lógico "ó" "or" determinara si una de las expresiones es verdadera. Devuelve verdadero si una o ambas expresiones son verdaderas. Y devuelve falso si ambas expresiones son falsas.
+  `!` : Es un operador lógico "no" "not" devuelve el valor booleano opuesto de lo que se le pasa. 
