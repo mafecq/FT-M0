@@ -1,0 +1,5 @@
+	* Variables: es una memoria donde puedo almacenar cualquier tipo de información y puede tener cambios frecuentes.
+	* Strings: Son bloques de texto que se utiliza para representar y manipular una secuencia de caracteres.
+	* Funciones (argumentos, `return`): Las funciones son tipos de objetos, nos permiten dividir el trabajo que hace un programa, en tareas más pequeñas separadas de la parte principal.
+	* Declaraciones `if`: indica una sentencia si algo es verdadero y si es falsa otra sentencia se puede ejecutar.
+	* Valores booleanos (`true`, `false`): Es una variable que sólo puede tomar dos valores (verdadero o falso).
