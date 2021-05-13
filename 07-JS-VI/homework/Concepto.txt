@@ -1,0 +1,1 @@
+Funciones Callback :  Son tipos de funciones que se pasan por parametro a otras funciones. Esto para que tengan una forma más legible de escribir funciones y cómoda para reutilizarlas.
